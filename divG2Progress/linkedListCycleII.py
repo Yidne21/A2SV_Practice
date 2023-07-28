@@ -25,7 +25,3 @@ class Solution(object):
                 return slow
             
         return None
-
-
-        
-        return None
