@@ -18,3 +18,8 @@ class Solution(object):
                 answer.append(str(i))
 
         return answer
+
+
+solution = Solution()
+
+print(solution.fizzBuzz(15))
